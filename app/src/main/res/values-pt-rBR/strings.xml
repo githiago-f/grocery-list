@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de compras</string>
+    <string name="about">Sobre</string>
+
+    <string name="add_product_screen_title">Adicionar produto</string>
+    <string name="list_products_screen_title">Lista de compras</string>
+    <string name="edit_product_screen_title">Editar produto</string>
+    <string name="about_the_app">Sobre o aplicativo</string>
+    <string name="version">Versão:</string>
+    <string name="author">Feito por: Thiago Farias</string>
+    <string name="what_is">O objetivo deste aplicativo de lista de supermercado é ajudar os usuários a criar e gerenciar listas de itens que desejam comprar de forma eficiente e organizada.</string>
+    <string name="product_delete_btn_desc">Deletar</string>
+    <string name="product_edit_btn_desc">Editar</string>
+    <string name="fab_description">Adicionar produto</string>
+    <string name="name_input_hint">Nome</string>
+    <string name="brand_input_hint">Marca</string>
+    <string name="price_input_hint">Preço</string>
+    <string name="save_button_text">Salvar</string>
+    <string name="quantity_input_hint">Quantidade</string>
+    <string name="name_input_empty">Nome do produto não deve ser vazio!</string>
+    <string name="saving">Salvando...</string>
+    <string name="confirm_delete">Você realmente deseja deletar este produto?</string>
+    <string name="delete_dialog_title">Deletar produto?</string>
+    <string name="edit_product_page_title">Editar produto</string>
+</resources>

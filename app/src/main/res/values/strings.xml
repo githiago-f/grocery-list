@@ -1,0 +1,26 @@
+<resources>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="about">About</string>
+    <string name="add_product_screen_title">Add product</string>
+    <string name="list_products_screen_title">Product list</string>
+    <string name="edit_product_screen_title">Edit product</string>
+    <string name="app_name">Grocery list</string>
+    <string name="about_the_app">About the application</string>
+    <string name="version">Version:</string>
+    <string name="launch_date" translatable="false">02/11/2023</string>
+    <string name="author">Made by: Thiago Farias</string>
+    <string name="what_is">The purpose of this grocery list app is to help users create and manage lists of items they want to buy in an efficient and organized way.</string>
+    <string name="product_delete_btn_desc">Delete</string>
+    <string name="product_edit_btn_desc">Edit</string>
+    <string name="fab_description">Add product</string>
+    <string name="name_input_hint">Name</string>
+    <string name="brand_input_hint">Brand</string>
+    <string name="price_input_hint" >Price</string>
+    <string name="save_button_text">Save</string>
+    <string name="quantity_input_hint">Quantity</string>
+    <string name="name_input_empty">Product\'s name should not be empty!</string>
+    <string name="saving">Saving…</string>
+    <string name="confirm_delete">You really want to delete this product?</string>
+    <string name="delete_dialog_title">Delete product?</string>
+    <string name="edit_product_page_title">Edit product</string>
+</resources>

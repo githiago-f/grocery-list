@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.GroceryList" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="actionBarTheme">@style/Theme.GroceryList.ActionBar</item>
+    </style>
+
+    <style name="Theme.GroceryList" parent="Base.Theme.GroceryList">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="Theme.GroceryList.ActionBar">
+        <item name="textAllCaps">true</item>
+        <item name="android:textColor">@color/violet</item>
+        <item name="colorSecondary">@color/violet</item>
+    </style>
+
+    <style name="Theme.GroceryList.CardList" parent="Base.Theme.GroceryList">
+
+    </style>
+
+    <style name="Theme.GroceryList.Text" parent="Base.Theme.GroceryList" />
+    <style name="Theme.GroceryList.Text.Highlight">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="Theme.GroceryList.Text.Title">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
